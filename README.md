@@ -43,35 +43,13 @@ I love **building projects**, **learning new technologies**, creating **user-fri
 
 ---
 
-## 📊 GitHub Stats
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuthar&theme=dark&show_icons=true&count_private=true&include_all_commits=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandSuthar&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSuthar&theme=dark&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnandSuthar&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-## 📈 Activity Graph
-![Anand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandSuthar&theme=github-dark&custom_title=Anand's%20Contribution%20Graph)
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://visitcount.itsvg.in/api?id=AnandSuthar&icon=5&color=0)
-
----
-
 ## 📝 Featured Project Repositories
 Here are some of my notable repositories:
 
 ### 🔥 Popular Repos
-1. **[Webpage Clones](https://github.com/AnandSuthar/webpage-clones)** - Collection of modern website clones
-2. **[Weather Applications](https://github.com/AnandSuthar/weather-apps)** - Weather apps with different complexity levels
-3. **[JavaScript Games](https://github.com/AnandSuthar/js-games)** - Interactive browser games
+1. **[Webpage Clones]([https://github.com/AnandSuthar/webpage-clones](https://github.com/anand880441-source/Front-End-Projects/tree/main/Frontend%20Projects))** - Collection of modern website clones
+2. **[Weather Applications]([https://github.com/AnandSuthar/weather-apps](https://github.com/anand880441-source/multi-tech-portfolio/tree/main/JavaScript/WeatherPro))** - Weather apps with different complexity levels
+3. **[JavaScript Games]([https://github.com/AnandSuthar/js-games](https://github.com/anand880441-source/multi-tech-portfolio/tree/main/JavaScript/Games))** - Interactive browser games
 
 ### 🆕 Latest Projects
 - **Portfolio Website** - Personal portfolio showcasing my work
