@@ -50,6 +50,7 @@ Here are some of my notable repositories:
 1. **[Webpage Clones](https://github.com/anand880441-source/Front-End-Projects/tree/main/Frontend%20Projects)** - Collection of modern website clones
 2. **[Weather Applications](https://github.com/anand880441-source/multi-tech-portfolio/tree/main/JavaScript/WeatherPro)** - Weather apps with different complexity levels
 3. **[JavaScript Games](https://github.com/anand880441-source/multi-tech-portfolio/tree/main/JavaScript/Games)** - Interactive browser games
+4. **[Spino AI](https://github.com/anand880441-source/SPINO-AI)** - Intelligent Voice Assistant
 
 ### 🆕 Latest Projects
 - **Portfolio Website** - Personal portfolio showcasing my work
