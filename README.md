@@ -64,7 +64,7 @@ Here are some of my notable repositories:
 - **Email:** [anand.suthar.cg@gmail.com](mailto:anand.suthar.cg@gmail.com)
 - **LinkedIn:** [Anand Suthar](https://www.linkedin.com/in/anand-suthar-653119396)
 - **YouTube:** [Spino CG](https://www.youtube.com/@spino_cg)
-- **Portfolio:**[Portfolio](https://spinoportfolio.netlify.app/)
+- **Portfolio:**[Portfolio](https://anandsuthar-portfolio.netlify.app/)
 
 ---
 
