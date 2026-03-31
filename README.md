@@ -41,8 +41,8 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
           <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/anand880441-source/fleetflow"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://fleetflow-demo.netlify.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+          <a href="https://github.com/anand880441-source/odoo_x_gujarat-vidyapith"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://odoo-x-gujarat-vidyapith-vert.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
         </p>
       </td>
       <td width="50%" valign="top">
@@ -60,8 +60,8 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
           <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/anand880441-source/budgetbandhan"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://budgetbandhan.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+          <a href="https://github.com/anand880441-source/Budget-bandhan"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://budget-bandhan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
         </p>
       </td>
     </tr>
@@ -81,8 +81,10 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/anand880441-source/fake-app-detector"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://fakeappdetector.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+          <a href="https://github.com/anand880441-source/sbi-yono-fraud-protection"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://sbi-yono-fraud-protection.netlify.app/
+
+abhi thode"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
         </p>
       </td>
       <td width="50%" valign="top">
@@ -100,8 +102,8 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/anand880441-source/smart-retail-shelf"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://smartretail.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+          <a href="https://github.com/anand880441-source/smart-retail-shelf_DAU"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://smartretailfrontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
         </p>
       </td>
     </tr>
