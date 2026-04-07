@@ -110,20 +110,6 @@ abhi thode"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=f
   </table>
 </div>
 
----
-
-## 🚀 Deployment & DevOps
-
-I deploy and manage applications across multiple platforms to ensure optimal performance and accessibility.
-
-| Platform | Projects Deployed | Badge |
-|:---------|:------------------|:------|
-| **Netlify** | FleetFlow, Portfolio Sites, Frontend Projects | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> |
-| **Vercel** | BudgetBandhan, Smart Retail Shelf | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
-| **Render** | Fake App Detection API, Backend Services | <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /> |
-| **Postman** | API Testing & Documentation | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
-
----
 
 ## 🛠️ Technical Arsenal
 
