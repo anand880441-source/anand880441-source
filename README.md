@@ -199,18 +199,6 @@ abhi thode"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=f
 
 ---
 
-## 🎯 Current Focus & Goals
-
-```javascript
-const anandSuthar = {
-    learning: ["Next.js 14", "GraphQL", "Kubernetes"],
-    building: "Full-stack SaaS platform for small businesses",
-    collaborating: "Open source projects in AI/ML and web development",
-    reading: "Clean Architecture by Robert C. Martin",
-    exploring: "Edge computing and WebAssembly"
-};
-```
-
 <div align="center">
   
 ### ✨ *"Code is poetry written for machines to read and humans to understand"* ✨
