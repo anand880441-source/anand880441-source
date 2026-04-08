@@ -19,96 +19,16 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
 - 🎮 **Beyond Code:** UI/UX design enthusiast, tech content creator, competitive programmer
 
 ---
-
-## 🌟 Signature Projects
-
+### 🌟 Signature Projects
 > *Four innovative solutions showcasing my versatility across the tech stack*
 
-<div align="center">
-  <table>
-      <td width="50%" valign="top">
-        <h3 align="center">🚛 FleetFlow</h3>
-        <p align="center">
-          <em>Intelligent Fleet Management System</em>
-        </p>
-        <p align="center">
-          A comprehensive logistics platform that revolutionizes how businesses manage their vehicle fleets. Features real-time GPS tracking, route optimization algorithms, driver performance analytics, and automated maintenance scheduling.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/anand880441-source/odoo_x_gujarat-vidyapith"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://odoo-x-gujarat-vidyapith-vert.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">💰 BudgetBandhan</h3>
-        <p align="center">
-          <em>Smart Personal Finance Companion</em>
-        </p>
-        <p align="center">
-          Your financial wellness partner that transforms complex money management into an intuitive experience. Track expenses, set savings goals, visualize spending patterns, and get AI-powered insights to achieve financial freedom.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/anand880441-source/Budget-bandhan"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://budget-bandhan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🛡️ SBI/YONO Fake App Detection</h3>
-        <p align="center">
-          <em>Cybersecurity Shield Against Financial Fraud</em>
-        </p>
-        <p align="center">
-          An intelligent system leveraging Machine Learning to combat digital banking fraud. Analyzes APK metadata, visual elements, and behavioral patterns to distinguish legitimate banking apps from sophisticated phishing attempts with 94% accuracy.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-          <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/anand880441-source/sbi-yono-fraud-protection"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://sbi-yono-fraud-protection.netlify.app/
 
-abhi thode"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">📊 Smart Retail Shelf</h3>
-        <p align="center">
-          <em>AI-Powered Retail Intelligence</em>
-        </p>
-        <p align="center">
-          Revolutionizing inventory management with computer vision. This system automatically detects stockouts, verifies product placement against planograms, and provides real-time analytics to optimize shelf performance and reduce revenue loss.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/anand880441-source/smart-retail-shelf_DAU"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://smartretailfrontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🚛 FleetFlow** | **Intelligent Fleet Management System**<br>Real-time GPS tracking, route optimization, and driver performance analytics. | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" /> | <a href="https://github.com/anand880441-source/odoo_x_gujarat-vidyapith"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://odoo-x-gujarat-vidyapith-vert.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
+| **💰 BudgetBandhan** | **Smart Personal Finance Companion**<br>Track expenses, set goals, and get AI-powered insights for financial freedom. | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /> | <a href="https://github.com/anand880441-source/Budget-bandhan"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://budget-bandhan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> |
+| **🛡️ SBI/YONO Shield** | **Fake App Detection System**<br>ML-driven analysis of APK metadata and patterns to detect banking fraud with 94% accuracy. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> | <a href="https://github.com/anand880441-source/sbi-yono-fraud-protection"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://sbi-yono-fraud-protection.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a> |
+| **📊 Smart Retail** | **AI-Powered Retail Intelligence**<br>Computer vision for stockout detection and real-time shelf performance analytics. | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> | <a href="https://github.com/anand880441-source/smart-retail-shelf_DAU"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://smartretailfrontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> |
 
 
 ## 🛠️ Technical Arsenal
