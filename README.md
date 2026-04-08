@@ -1,13 +1,28 @@
 <div align="center">
-  
-# ✦ Anand Suthar ✦
-### *Engineering Intelligent Digital Experiences*
+
+<h1>
+  <code><span style="color:#47A248">M</span><span style="color:#61DAFB">E</span><span style="color:#61DAFB">R</span><span style="color:#339933">N</span></code> 
+  <span style="color:#00D9FF">Stack Developer</span>
+</h1>
+
+<img src="https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg" width="100%" />
+
+<br>
+
+### ✦ *Engineering Intelligent Digital Experiences* ✦
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Open-Source+Advocate;AI+%26+ML+Enthusiast;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anand880441-source&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anand880441-source?style=flat-square&color=00D9FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/anand880441-source?style=flat-square&color=FFD700" alt="Stars" />
+</p>
 
 </div>
 
 ---
+
 
 ## 🎯 About Me
 
@@ -15,7 +30,7 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
 
 - 🎓 **Education:** Bachelor of Engineering in Computer Science
 - 💡 **Philosophy:** Write clean code, solve real problems, never stop learning
-- 🎯 **2025 Goals:** Contribute to major open-source projects, master cloud architecture
+- 🎯 **2026 Goals:** Contribute to major open-source projects, master cloud architecture
 - 🎮 **Beyond Code:** UI/UX design enthusiast, tech content creator, competitive programmer
 
 ---
@@ -124,11 +139,6 @@ I'm a **Computer Science Engineering student** with an insatiable curiosity for 
 ### ✨ *"Code is poetry written for machines to read and humans to understand"* ✨
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anand880441-source&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/anand880441-source?style=flat-square&color=00D9FF)
-![GitHub Stars](https://img.shields.io/github/stars/anand880441-source?style=flat-square&color=FFD700)
-
 **Thanks for stopping by! Let's build something amazing together.** 🚀
 
 </div>
